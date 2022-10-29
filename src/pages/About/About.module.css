@@ -1,0 +1,21 @@
+.about {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.about h2{
+  margin: 28px 0px;
+}
+
+.about p{
+  color: #aaa;
+  margin-bottom: 2em;
+}
+
+.about a{
+  display: block;
+  margin-top: 15px;
+  padding: 10px 15px;
+}
